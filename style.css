@@ -1,0 +1,8 @@
+body {
+  background-image: url(./ico/favicon-32x32.png);
+}
+a,
+p,
+h1 {
+  color: yellow;
+}
